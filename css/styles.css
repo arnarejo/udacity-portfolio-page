@@ -1,7 +1,7 @@
 /* Custom CSS Stylesheet*/
 
 body {
-  margin: 20px;
+  margin: 20px 20px 0px 20px;
 }
 
 
@@ -15,7 +15,7 @@ header {
   text-align: right;
 }
 
-.udacity_logo {
+.udacity-logo {
   height: 65%;
 }
 
@@ -41,4 +41,8 @@ header {
 .placeholders {
   position: relative;
   width: 100%;
+}
+
+footer {
+  background-color: #ddd;
 }
