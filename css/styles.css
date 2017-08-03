@@ -43,6 +43,8 @@ header {
   width: 100%;
 }
 
-footer {
-  background-color: #ddd;
+/* custom CSS to remove margin and padding on the image from col-md-12 bootstrap class*/
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
 }
