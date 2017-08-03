@@ -1,0 +1,44 @@
+/* Custom CSS Stylesheet*/
+
+body {
+  margin: 20px;
+}
+
+
+/* Header and related css*/
+
+header {
+  border-bottom: 5px solid #7d97ad;
+}
+
+.header-text {
+  text-align: right;
+}
+
+.udacity_logo {
+  height: 65%;
+}
+
+/* main section containing image */
+.main-image {
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+/* Portfolio section */
+.portfolio {
+  margin: 20px 0px;
+  background-color: #d8dfea;
+  padding: 5px;
+
+}
+
+.boxes {
+  text-align: center;
+}
+
+.placeholders {
+  position: relative;
+  width: 100%;
+}
